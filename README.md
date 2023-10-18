@@ -1,0 +1,2 @@
+# MathLab
+Synchronous circuit counter
